@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\wamp64\\www\\ecom2\\Source Code\\E-commerce shopping application by aman ahuja and akashdeep\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w700dp-v13\\values-w700dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\amana\\.gradle\\caches\\transforms-2\\files-2.1\\120e836ba0a3bf7467ed8c08bb5e5501\\jetified-drop-in-3.7.1\\res\\values-w700dp-v13\\values-w700dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.paolorotolo:appintro:4.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80aea552296e72baf522be038c40c432/jetified-appintro-4.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80aea552296e72baf522be038c40c432/jetified-appintro-4.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/008fd1dadff8235ed59620c6d73629c2/jetified-appintro-4.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/008fd1dadff8235ed59620c6d73629c2/jetified-appintro-4.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/008fd1dadff8235ed59620c6d73629c2/jetified-appintro-4.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31acfa412d7b7fcdfe17879921dd91eb/jetified-appintro-4.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31acfa412d7b7fcdfe17879921dd91eb/jetified-appintro-4.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/31acfa412d7b7fcdfe17879921dd91eb/jetified-appintro-4.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.paolorotolo/appintro/4.1.0/54535ae34c9af1f9a3661817a739e20aaf77811/appintro-4.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

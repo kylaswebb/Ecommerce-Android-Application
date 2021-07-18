@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: ai.devsupport.instamojo:instamojolib:0.1.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/344a55cfded9028386c301b00a4837f6/jetified-instamojolib-0.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/344a55cfded9028386c301b00a4837f6/jetified-instamojolib-0.1.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e20187e2b7e6741ec25d9571216fcc7/jetified-instamojolib-0.1.6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e20187e2b7e6741ec25d9571216fcc7/jetified-instamojolib-0.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e20187e2b7e6741ec25d9571216fcc7/jetified-instamojolib-0.1.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/675339d4387201a4884af2cf6e16735b/jetified-instamojolib-0.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/675339d4387201a4884af2cf6e16735b/jetified-instamojolib-0.1.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/675339d4387201a4884af2cf6e16735b/jetified-instamojolib-0.1.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

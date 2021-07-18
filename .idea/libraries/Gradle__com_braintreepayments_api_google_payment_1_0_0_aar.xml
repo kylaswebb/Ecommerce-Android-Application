@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.braintreepayments.api:google-payment:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07af6fdb3d34a8f9bb76285f8d54c7c8/jetified-google-payment-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07af6fdb3d34a8f9bb76285f8d54c7c8/jetified-google-payment-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e8acba9cc10abb65616f2dd83a053c04/jetified-google-payment-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e8acba9cc10abb65616f2dd83a053c04/jetified-google-payment-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e8acba9cc10abb65616f2dd83a053c04/jetified-google-payment-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84b56fb0ec9d5145d18407c489ec0420/jetified-google-payment-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84b56fb0ec9d5145d18407c489ec0420/jetified-google-payment-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84b56fb0ec9d5145d18407c489ec0420/jetified-google-payment-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/google-payment/1.0.0/9af7436b5312652b27d8fec87edcb730e8e3e408/google-payment-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.braintreepayments.api/google-payment/1.0.0/cb778837d724093606662ad4e9dd3cf5207ddbdd/google-payment-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\wamp64\\www\\ecom2\\Source Code\\CustomerApplicationCode\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\amana\\.gradle\\caches\\transforms-2\\files-2.1\\05785033aca702122bb791b787963f3f\\jetified-android-sdk-1.2.6\\res\\values-v19\\values-v19.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,104",
+                        "endLines": "2,5",
+                        "endColumns": "48,12",
+                        "endOffsets": "99,231"
+                    }
+                }
+            ]
+        }
+    ]
+}
